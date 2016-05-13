@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 10px/1.5 "Lucida Console", Helvetica, Arial, sans-serif;
+  font: 400 16px/1.5 "Lucida Console", Helvetica, Arial, sans-serif;
   color: #111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
@@ -44,7 +44,7 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 9px; }
+  font-size: 14.4px; }
 
 /**
  * Lists
@@ -276,7 +276,7 @@ pre {
     margin-bottom: 30px; }
 
 .post-meta {
-  font-size: 9px;
+  font-size: 14.4px;
   color: #828282; }
 
 .post-link {
